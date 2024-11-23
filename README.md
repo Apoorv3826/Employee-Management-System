@@ -1,3 +1,10 @@
+![Java](https://img.shields.io/badge/language-Java-blue)
+![JavaScript](https://img.shields.io/badge/language-JavaScript-339933)
+![React](https://img.shields.io/badge/framework-React-brightgreen)
+![Spring Boot](https://img.shields.io/badge/framework-Spring_Boot-yellow)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-4EA94B)
+
+
 # Employee Management System (EMS) 🚀
 
 An intuitive and powerful Employee Management System built using **React**, **Spring Boot**, and **MongoDB**. This application allows organizations to manage employee records with ease, keeping track of important information like employee details, salary, and leave reports.
