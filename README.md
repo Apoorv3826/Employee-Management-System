@@ -1,8 +1,8 @@
-![Java](https://img.shields.io/badge/language-Java-blue)
-![JavaScript](https://img.shields.io/badge/language-JavaScript-339933)
-![React](https://img.shields.io/badge/framework-React-brightgreen)
-![Spring Boot](https://img.shields.io/badge/framework-Spring_Boot-yellow)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-4EA94B)
+![Java](https://img.shields.io/badge/language-Java-007396)
+![JavaScript](https://img.shields.io/badge/language-JavaScript-F7DF1E)
+![React](https://img.shields.io/badge/framework-React-61DAFB)
+![Spring Boot](https://img.shields.io/badge/framework-Spring_Boot-6DB33F)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-009639)
 
 
 # Employee Management System (EMS) 🚀
